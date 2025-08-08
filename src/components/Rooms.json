@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "price": 1500,
+    "images": [
+      "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg",
+      "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "price": 2000,
+    "images": [
+          "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg",
+      "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "price": 1800,
+    "images": [
+           "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg",
+      "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "price": 2200,
+    "images": [
+          "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg",
+      "/Photos/r1.jpg",
+      "/Photos/r2.jpg",
+      "/Photos/r3.jpg"
+    ]
+  }
+]
